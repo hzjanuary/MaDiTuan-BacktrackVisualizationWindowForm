@@ -1,0 +1,10 @@
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\bin\Debug\NienLuan1-MaDiTuanBacktrackVisualization.exe.config
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\bin\Debug\NienLuan1-MaDiTuanBacktrackVisualization.exe
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\bin\Debug\NienLuan1-MaDiTuanBacktrackVisualization.pdb
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\obj\Debug\NienLuan1-MaDiTuanBacktrackVisualization.csproj.AssemblyReference.cache
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\obj\Debug\NienLuan1_MaDiTuanBacktrackVisualization.Properties.Resources.resources
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\obj\Debug\NienLuan1-MaDiTuanBacktrackVisualization.csproj.GenerateResource.cache
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\obj\Debug\NienLuan1-MaDiTuanBacktrackVisualization.csproj.CoreCompileInputs.cache
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\obj\Debug\NienLuan1-MaDiTuanBacktrackVisualization.exe
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\obj\Debug\NienLuan1-MaDiTuanBacktrackVisualization.pdb
+D:\Workspace\dev-c#\NienLuan1-Backtracking-Visualization\NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization\obj\Debug\NienLuan1_MaDiTuanBacktrackVisualization.MainForm.resources

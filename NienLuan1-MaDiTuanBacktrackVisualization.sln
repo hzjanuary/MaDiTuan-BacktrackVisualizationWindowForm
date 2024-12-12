@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NienLuan1-MaDiTuanBacktrackVisualization", "NienLuan1-MaDiTuanBacktrackVisualization\NienLuan1-MaDiTuanBacktrackVisualization.csproj", "{FE783681-7FEC-4563-B9DF-3AC9FC089C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE783681-7FEC-4563-B9DF-3AC9FC089C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE783681-7FEC-4563-B9DF-3AC9FC089C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE783681-7FEC-4563-B9DF-3AC9FC089C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE783681-7FEC-4563-B9DF-3AC9FC089C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF08CC4-45CB-47D0-AB90-11C6E9B7AB9B}
+	EndGlobalSection
+EndGlobal
